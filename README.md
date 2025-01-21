@@ -1,5 +1,5 @@
-## Hello, I'm Andrew. Welcome to my Github profile.
-### Get to know me:
+## Hello, I'm Andrew.
+### GTKM:
 
 **Preferred Languages**
 ```md
